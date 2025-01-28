@@ -10,3 +10,7 @@ What is your project named? ... ignite-call
 
 -instalar pacote de design system
 npm i @ignite-ui/react
+
+npm i @rocketseat/eslint-config -D
+
+- rodar o lint npm run lint -- --fix
