@@ -7,3 +7,6 @@ What is your project named? ... ignite-call
 √ Would you like to use Turbopack for `next dev`? ... No / Yes
 √ Would you like to customize the import alias (`@/*` by default)? ... No / Yes
 √ What import alias would you like configured? ... @/\*
+
+-instalar pacote de design system
+npm i @ignite-ui/react
