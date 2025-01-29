@@ -24,3 +24,7 @@ npm i @rocketseat/eslint-config -D
 - npm i axios
 - npm i nookies
 - npm i @types/cookie -D
+
+Autenticação com o google
+https://developers.google.com/identity/protocols/oauth2?hl=pt-br
+https://console.cloud.google.com/projectcreate
