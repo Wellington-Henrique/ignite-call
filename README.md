@@ -22,3 +22,5 @@ npm i @rocketseat/eslint-config -D
 - npx prisma studio
 
 - npm i axios
+- npm i nookies
+- npm i @types/cookie -D
