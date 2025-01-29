@@ -14,3 +14,9 @@ npm i @ignite-ui/react
 npm i @rocketseat/eslint-config -D
 
 - rodar o lint npm run lint -- --fix
+
+- npm i prisma -D
+- npm i @prisma/client
+- npx prisma init --datasource-provider SQLite
+- npx prisma migrate dev
+- npx prisma studio
