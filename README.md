@@ -28,3 +28,5 @@ npm i @rocketseat/eslint-config -D
 Autenticação com o google
 https://developers.google.com/identity/protocols/oauth2?hl=pt-br
 https://console.cloud.google.com/projectcreate
+
+- npm i next-auth
