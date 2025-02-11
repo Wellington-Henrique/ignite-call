@@ -17,7 +17,7 @@ export function CalendarStep() {
       {isDateSelected && (
         <TimePicker>
           <TimePickerHeader>
-            terça-feira <span>20 de setembro</span>
+            segunda-feira <span>10 de fevereiro</span>
           </TimePickerHeader>
 
           <TimePickerList>

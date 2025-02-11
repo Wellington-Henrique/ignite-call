@@ -30,3 +30,5 @@ https://developers.google.com/identity/protocols/oauth2?hl=pt-br
 https://console.cloud.google.com/projectcreate
 
 - npm i next-auth
+
+- npm i dayjs
