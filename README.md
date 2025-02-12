@@ -32,3 +32,5 @@ https://console.cloud.google.com/projectcreate
 - npm i next-auth
 
 - npm i dayjs
+
+- npm i @tanstack/react-query
