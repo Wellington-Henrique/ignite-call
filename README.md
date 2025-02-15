@@ -53,3 +53,7 @@ npm i googleapis
 npm i next-seo
 
 https://efficient-sloth-d85.notion.site/Ignite-Call-Postgres-dev-e-prod-bd105befe0ab411cb7074aad72819613
+
+Provedores de bancos de dados - PlanetScale - Neon - FaunaDB - Supabase - AWS Aurora Serverless
+
+npx prisma db push
