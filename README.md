@@ -49,3 +49,5 @@ Comando utilizado para listar os containers:
 docker ps
 
 npm i googleapis
+
+npm i next-seo
