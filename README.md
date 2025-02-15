@@ -47,3 +47,5 @@ docker rm <container_id ou container_name>
 
 Comando utilizado para listar os containers:
 docker ps
+
+npm i googleapis
