@@ -34,3 +34,16 @@ https://console.cloud.google.com/projectcreate
 - npm i dayjs
 
 - npm i @tanstack/react-query
+
+Comando utilizado para rodar o Docker:
+docker run --name nome_do_container -e MYSQL_ROOT_PASSWORD=docker -p 3306:3306 mysql:latest
+
+Comando utilizado para iniciar o container docker start nome_do_container
+
+Comando utilizado para parar o container: docker stop nome_do_container
+
+Comando utilizado para deletar o container
+docker rm <container_id ou container_name>
+
+Comando utilizado para listar os containers:
+docker ps
